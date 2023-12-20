@@ -4,7 +4,9 @@ Enter your code on line 7 to print 'Hello, World!'
 to the console (the panel on the right)
 */
 
-console.log("Hello");
+console.log("hello world");
+console.log("wren broke out of her crate"); console.log("wren is our alien");
+console.log("Wren is 1 years old");
 
 /*  
 Next, PLAY! 
